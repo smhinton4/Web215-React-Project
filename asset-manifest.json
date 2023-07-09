@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Web215-React-Project/static/css/main.9f404046.css",
+    "main.js": "/Web215-React-Project/static/js/main.2aa7b3ff.js",
+    "static/media/pleasure-island.png": "/Web215-React-Project/static/media/pleasure-island.57ca862e76c524076fef.png",
+    "static/media/title-name-layout.png": "/Web215-React-Project/static/media/title-name-layout.072ff6675b2054151121.png",
+    "static/media/fa-solid-900.ttf": "/Web215-React-Project/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Web215-React-Project/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Web215-React-Project/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Web215-React-Project/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/mousecollege.png": "/Web215-React-Project/static/media/mousecollege.4b56963bb2b26a943826.png",
+    "static/media/fa-regular-400.ttf": "/Web215-React-Project/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Web215-React-Project/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Web215-React-Project/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Web215-React-Project/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Web215-React-Project/index.html",
+    "main.9f404046.css.map": "/Web215-React-Project/static/css/main.9f404046.css.map",
+    "main.2aa7b3ff.js.map": "/Web215-React-Project/static/js/main.2aa7b3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f404046.css",
+    "static/js/main.2aa7b3ff.js"
+  ]
+}
